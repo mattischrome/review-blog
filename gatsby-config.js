@@ -1,25 +1,25 @@
 module.exports = {
   siteMetadata: {
-    title: 'John Doe',
+    title: 'mattischrome',
     description:
-      'John Doe is a lifestyle photographer based in San Francisco, CA',
-    url: 'https://gatsby-starter-amsterdam.netlify.com',
-    author: 'John Doe',
-    intro: 'John Doe is a lifestyle photographer based in San Francisco, CA',
+      'Not making sense since forever',
+    url: 'https://mattischrome.com',
+    author: 'Matthew Dorey',
+    intro: 'Mattischrome: Matthew Dorey\'s blog reviewing books, music and more',
     menuLinks: [
       {
-        name: 'John Doe',
+        name: 'mattischrome',
         slug: '/',
       },
       {
-        name: 'Example Page',
+        name: 'About',
         slug: '/example/',
       },
     ],
     footerLinks: [
       {
-        name: 'Gatsby Theme Amsterdam',
-        url: 'https://github.com/ryanwiemer/gatsby-theme-amsterdam',
+        name: 'mattischrome',
+        url: 'https://mattischrome.com/',
       },
     ],
   },
