@@ -5,7 +5,7 @@ module.exports = {
       'Not making sense since forever',
     url: 'https://mattischrome.com',
     author: 'Matthew Dorey',
-    intro: 'Mattischrome: Matthew Dorey\'s blog reviewing books, music and more',
+    intro: 'Mattischrome: Matthew Dorey\'s review blog',
     menuLinks: [
       {
         name: 'mattischrome',
@@ -13,7 +13,7 @@ module.exports = {
       },
       {
         name: 'About',
-        slug: '/example/',
+        slug: '/about/',
       },
     ],
     footerLinks: [
