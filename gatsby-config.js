@@ -26,7 +26,12 @@ module.exports = {
   plugins: [
     {
       resolve: 'gatsby-theme-amsterdam',
-      options: {},
+      options: {
+        grid: 'basic',
+        transitions: true,
+        postsPerPage: 12,
+        progressIndicator: true,
+      },
     },
   ],
 }
