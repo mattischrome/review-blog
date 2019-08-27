@@ -5,13 +5,13 @@ tags: [Understated Classics]
 cover: "./UC37Hero.jpg"
 ---
 
-Doves are a band from Manchester who traded dance music for rock yet never left their former genre behind. Starting out as Sub Sub, they scored a worldwide hit in 1993 with "Ain't No Love (Ain't No Use)": a timeless dance tune that immediately owns whatever room it plays in. However, subsequent releases by Sub Sub did not catch on and people started to think of the band as one-hit wonders.
+Doves are a band from Manchester who traded dance music for rock yet never left their former genre behind. Starting out as Sub Sub, they scored a worldwide hit in 1993 with "Ain't No Love (Ain't No Use)": a timeless dance tune that immediately owns whatever room it plays in. However, subsequent releases by Sub Sub did not catch on and people started to think of the band as a one-hit wonder.
 
-Sometimes a feeling of stagnation is best purged with reinvention. Often fire plays a role. When forests burn down, new life springs up to replace the old. This premise sustains many ecosystems. For example, there are species of Eucalyptus tree in Australia that depend on fires to grow their next generation.
+Sometimes a feeling of stagnation is best purged with reinvention. Often fire plays a role. When forests burn down, new life springs up to replace the old. This premise sustains many ecosystems. There are species of Eucalyptus tree in Australia that depend on fires to grow their next generation.
 
 Fire also rejuvenated Doves. In 1996, on the Williams brothers’ birthday, their studio burned down, taking with it most of Sub Sub's attempts at an album. The band rose again, a phoenix rechristened as Doves - the name a blurring of Old Testament myth and clubland drug lore. Renewed, they doubled down to create their new 'debut' album.
 
-Lost Souls is a warm dark blanket of a record. Ideas and motifs spread through it like blank ink being stirred into clear water. Its songs embrace change while also acknowledging the giddy free-fall that major life events bring. Long songs stretch out while short codas wind in on themselves. There are huge wordless songs and there are instrumentals crammed with speech and words.
+Lost Souls is a warm dark blanket of a record. Ideas and motifs spread through it like blank ink being stirred into clear water. Its songs embrace change while also acknowledging the giddy free-fall that major life events bring. Long songs stretch out while short codas wind in on themselves. There are huge wordless songs and instrumentals crammed with speech and words.
 
 Lost Souls is an 'album as a vessel for memories' kind of affair. This series of understated classics includes quite a few such albums: the album as memory palace where you've stashed and stored reams of memory and imagination. With Lost Souls, I did not realise how much was there until I started focusing, perhaps because the music itself is so subtle. Listening again years later I can hear motifs that drove me to my love of bands like Battles. The time in between has given me more experience with which to interpret the music and the emotion that it stirs up. The album doesn't change, the listener does, but because it was such an amorphous beast to begin with, it rewards these changes in perspective.
 
@@ -19,7 +19,7 @@ And listening to Lost Souls was like falling through a trapdoor into the past. I
 
 Later on, 'Sea Song' and 'Rise' become a swirl of song and story, articulated in words that cohere and collapse like the sea and waves they describe. But there are also what the younger me would call 'proper songs', songs that strive for purpose and aim for your heart strings.
 
-'The Man Who Told Everything' alludes to Bowie's 'Man Who Sold The World' but instead of regarding a strange creature with an indifferent eye (Bowie was, after all, looking at himself in the mirror), Doves attempt to build the song from inside the character. They give him the regret of a grifter, a chancer with one last chance.
+'The Man Who Told Everything' alludes to Bowie's 'Man Who Sold The World' but instead of regarding a strange creature with an indifferent eye (Bowie was, after all, looking at himself in the mirror), Doves attempt to build the song from inside the character. They give him the regret of a grifter, a chancer with one last chance. The string section that the song bulds into is awesome.
 
 'Catch The Sun' ties a simple lyric about biding one's time to a massive pop hook, creating something simultaneously deep and pleasurable - philosophical musings hooked up to the pounding driving beat that you'd love to hear in your car on a sunny day. It is perhaps the brightest and clearest moment on the album, a transient moment of warm bliss that eventually goes up in smoke.
 
