@@ -20,7 +20,7 @@ I assume that each of N collectors will buy a packet of stickers and add any new
 
 Here's the R code for a single simulation of the swapping algorithm, with defaults for the Euro 2016 album:
 
-```r
+```
 stickerswaps <- function(number.collectors=2, number.stickers=680,
 pack.size=5, packs.purchased=1, target.collections=1, cutoff=50)
 {

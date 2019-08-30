@@ -16,7 +16,7 @@ I love making plots in R with `ggplot`. However, there are always a few niggles 
 ## Axis labels
 I'm always getting caught out by labels. How the heck do I change such and such to a larger font and so on? For most things the `theme()` function comes to my rescue. It's just a matter of remembering all the elements that can be altered. There are so many that there's no shame in forgetting a few. Thankfully [the documentation for `ggplot` is great]() and it's easy to find the relevant setting. It's worth bearing in mind that there are additional helper functions that *do* things in `ggplot`. For example, in the code:
 
-```r
+```
 
 ggplot(DF, aes(x=my_bars))
 	+ geom_bar()
@@ -44,7 +44,7 @@ Other fun theme packages worth investigating include [`gg_sci`](https://ggsci.ne
 ## Exporting transparent graphics.
 I think that exporting graphs with coloured backgrounds to match this website is a reasonable workaround but the best approach is to export `png` files with transparent backgrounds. A quick search of stackoverflow [brings up the following commands](https://stackoverflow.com/questions/7455046/how-to-make-graphics-with-transparent-background-in-r-using-ggplot2#7455481):
 
-```r
+```
 
 p <- p +
   theme(

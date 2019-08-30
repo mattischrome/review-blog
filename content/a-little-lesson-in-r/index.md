@@ -19,7 +19,7 @@ I decided to use `dplyr`[^1] because I thought it would help me organise all sub
 So how could I fix it? The programmer in me returned to the for loops that I'd tried to avoid. I overhauled the code using base R and vectorised `sapply` commands. These were handy, cutting out some of the loops, though I still used a loop for each of the sites. This is not an unfamiliar approach for me: I used the same technique to run my [sticker swapping simulations](swaptastic-part-2) last year. The original `dplyr` commands aren't designed for passing around so many numbers about, at least not in this particular way[^3].
 
 In the end most of the work was done by this single line of code:
-```r
+```
 sapply(sapply(rep(1,num_samples), 
                runif),
         qnorm,
