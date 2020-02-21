@@ -31,6 +31,7 @@ module.exports = {
         transitions: true,
         postsPerPage: 12,
         progressIndicator: true,
+        colorToggle: true,
       },
     },
   ],
